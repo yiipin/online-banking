@@ -183,7 +183,7 @@ DWOLLA_ENV=sandbox
 
 <details>
 <summary><code>exchangePublicToken</code></summary>
-
+  
 ```typescript
 // This function exchanges a public token for an access token and item ID
 export const exchangePublicToken = async ({
